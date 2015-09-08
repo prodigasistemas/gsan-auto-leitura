@@ -6,8 +6,8 @@
 - Digitação da leitura, obrigatório a foto (sem anormalidade de leitura)
 - Geração do PDF para pagamento, número do código
 - Notificações para o usuário no celular
-  - aviso de leitura
-  - aviso de vencimento
+  - Aviso de leitura
+  - Aviso de vencimento
 - Programar uma fiscalização nas leituras
 - Criar a API do Self Reading
   - efetuar leitura (matrícula, hidrômetro e leitura)
