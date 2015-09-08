@@ -1,0 +1,30 @@
+1. Baixar e instalar o Git no seu computador no endereço:
+
+https://github.com/git-for-windows/git/releases/tag/v2.5.1.windows.1
+
+2. Entrar no Git Bash
+
+3. Criar a sua chave para poder começar a comitar.
+
+ssh-keygen -t rsa -C "jmpinheiro@nexusbr.com"
+
+4. Abra agora a sua chave SSH
+
+notepad ~/.ssh/id_rsa.pub
+
+5. Copie para o portal a chave
+
+https://portal.softwarepublico.gov.br/gitlab/profile/keys
+
+6. Teste para ver se está funcionando
+
+ssh -T git@beta.softwarepublico.gov.br
+
+
+
+
+
+
+Mais instruções em:
+
+https://portal.softwarepublico.gov.br/social/spb/como-cadastrar-a-chave-ssh-para-a-utilizacao-do-ambiente-colaborativo-de-desenvolvimento-de-codigo-fonte-utilizando-o-windows

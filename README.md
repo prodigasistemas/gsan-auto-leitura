@@ -1,4 +1,4 @@
-# Backlog Self Reading
+﻿# Backlog Self Reading
 
 - Acesso via matrícula as funcionalidades de leitura
 - Leitura para identificação do hidrômetro
@@ -17,4 +17,4 @@
   - cadastrar débito automático (matrícula, informações bancárias)
   - notificações*
 - Quem fez a leitura (Consultar Imóvel)
-- parametrizar os imóveis liberados para a leitura (condomínio, medição água/poço)
+- Parametrizar os imóveis liberados para a leitura (condomínio, medição água/poço)
